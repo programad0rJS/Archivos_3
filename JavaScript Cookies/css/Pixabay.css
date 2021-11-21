@@ -1,0 +1,23 @@
+/*
+::selection{
+    background: black;
+    color: white;
+}
+body{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+h1, h2 ,h3 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+:hover{
+    color: red;
+  
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*/
